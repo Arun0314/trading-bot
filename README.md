@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Binance Futures Testnet Trading Bot
 
 CLI tool to place MARKET and LIMIT orders on Binance Futures Testnet.
@@ -66,3 +67,6 @@ Errors are also printed to stderr in the terminal.
 ```bash
 zip -r trading_bot.zip trading_bot/
 ```
+=======
+# trading-bot
+>>>>>>> 13dc8762e0273698cc8ea755349e34ab1dc1feb3
